@@ -4,7 +4,6 @@ let runningTotal = 0;
 let buffer = 0;
 let previousOperator;
 var clear = true
-var equal_ = false
 
 // helper functions
 function appendValue(value){
