@@ -102,7 +102,6 @@ function buttonClick(value){
     else{
         handleDigit(value)
     }
-    console.log(buffer, previousOperator, runningTotal)
     render()
 }
 function render(){
